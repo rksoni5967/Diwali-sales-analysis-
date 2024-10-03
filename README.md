@@ -80,6 +80,7 @@ You can explore the full results in the notebook or report.
 ## Contributors
 
 - [Rakesh Soni](https://github.com/rksoni5967) - Data Analysis
+- [Rakesh Soni](https://www.linkedin.com/in/rakesh-soni-2093881a1/)
 
 
 If you found any suggestions for me, feel free to share. I would love to learn and implement with experts advice.
